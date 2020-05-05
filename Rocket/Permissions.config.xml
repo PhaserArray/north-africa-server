@@ -92,9 +92,9 @@
       <ParentGroup>default</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.warp.allies</Permission>
-        <Permission Cooldown="60">essentials.kit.spring</Permission>
-        <Permission Cooldown="600">essentials.kit.garand</Permission>
-        <Permission Cooldown="1800">essentials.kit.thompson</Permission>
+        <Permission Cooldown="0">essentials.kit.spring</Permission>
+        <Permission Cooldown="0">essentials.kit.garand</Permission>
+        <Permission Cooldown="0">essentials.kit.thompson</Permission>
         <Permission Cooldown="0">AnythingElseALLAlliesShouldHave</Permission>
       </Permissions>
     </Group>
@@ -468,9 +468,9 @@
       <ParentGroup>default</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.warp.axis</Permission>
-        <Permission Cooldown="1800">essentials.kit.mp40</Permission>
-        <Permission Cooldown="60">essentials.kit.kar98k</Permission>
-        <Permission Cooldown="600">essentials.kit.gewehr</Permission>
+        <Permission Cooldown="0">essentials.kit.mp40</Permission>
+        <Permission Cooldown="0">essentials.kit.kar98k</Permission>
+        <Permission Cooldown="0">essentials.kit.gewehr</Permission>
         <Permission Cooldown="0">AnythingElseALLAxisShouldHave</Permission>
       </Permissions>
     </Group>
