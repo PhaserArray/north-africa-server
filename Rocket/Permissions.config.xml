@@ -192,7 +192,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE1</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye1</Permission>
       </Permissions>
     </Group>
 
@@ -208,7 +208,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE2</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye2</Permission>
       </Permissions>
     </Group>
 
@@ -224,7 +224,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE3</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye3</Permission>
       </Permissions>
     </Group>
 
@@ -240,7 +240,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE4</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye4</Permission>
       </Permissions>
     </Group>
 
@@ -256,7 +256,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE5</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye5</Permission>
       </Permissions>
     </Group>
 
@@ -272,7 +272,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE6</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye6</Permission>
       </Permissions>
     </Group>
 
@@ -288,7 +288,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE7</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye7</Permission>
       </Permissions>
     </Group>
 
@@ -304,7 +304,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyE8</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmye8</Permission>
       </Permissions>
     </Group>
 
@@ -320,7 +320,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyW1</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyw1</Permission>
       </Permissions>
     </Group>
 
@@ -336,7 +336,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyW2</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyw2</Permission>
       </Permissions>
     </Group>
 
@@ -352,7 +352,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyO1</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyo1</Permission>
       </Permissions>
     </Group>
 
@@ -368,7 +368,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyO2</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyo2</Permission>
       </Permissions>
     </Group>
 
@@ -384,7 +384,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyO3</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyo3</Permission>
       </Permissions>
     </Group>
 
@@ -400,7 +400,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyO4</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyo4</Permission>
       </Permissions>
     </Group>
 
@@ -416,7 +416,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyO5</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyo5</Permission>
       </Permissions>
     </Group>
 
@@ -432,7 +432,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyO6</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyo6</Permission>
       </Permissions>
     </Group>
 
@@ -448,7 +448,7 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyO7</Permission>
+        <Permission Cooldown="0">essentials.kit.usarmyo7</Permission>
       </Permissions>
     </Group>
 
@@ -569,7 +569,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE1</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye1</Permission>
       </Permissions>
     </Group>
 
@@ -585,7 +585,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE2</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye2</Permission>
       </Permissions>
     </Group>
 
@@ -601,7 +601,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE3</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye3</Permission>
       </Permissions>
     </Group>
 
@@ -617,7 +617,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE4</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye4</Permission>
       </Permissions>
     </Group>
 
@@ -633,7 +633,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE5</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye5</Permission>
       </Permissions>
     </Group>
 
@@ -649,7 +649,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE6</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye6</Permission>
       </Permissions>
     </Group>
 
@@ -665,7 +665,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE7</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye7</Permission>
       </Permissions>
     </Group>
 
@@ -681,7 +681,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyE8</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmye8</Permission>
       </Permissions>
     </Group>
 
@@ -697,7 +697,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyW1</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyw1</Permission>
       </Permissions>
     </Group>
 
@@ -713,7 +713,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyW2</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyw2</Permission>
       </Permissions>
     </Group>
 
@@ -729,7 +729,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyO1</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyo1</Permission>
       </Permissions>
     </Group>
 
@@ -745,7 +745,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyO2</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyo2</Permission>
       </Permissions>
     </Group>
 
@@ -761,7 +761,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyO3</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyo3</Permission>
       </Permissions>
     </Group>
 
@@ -777,7 +777,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyO4</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyo4</Permission>
       </Permissions>
     </Group>
 
@@ -793,7 +793,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyO5</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyo5</Permission>
       </Permissions>
     </Group>
 
@@ -809,7 +809,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyO6</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyo6</Permission>
       </Permissions>
     </Group>
 
@@ -825,7 +825,7 @@
       <Priority>60</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForDEArmyO7</Permission>
+        <Permission Cooldown="0">essentials.kit.dearmyo7</Permission>
       </Permissions>
     </Group>
 
