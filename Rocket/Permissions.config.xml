@@ -151,11 +151,11 @@
       </Permissions>
     </Group>
 
-    <!-- This is the us_army_pvt permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This is the us_army_e1 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
     <!-- This should be assigned directly. -->
     <Group>
-      <Id>us_army_pvt</Id>
-      <DisplayName>us_army_pvt</DisplayName>
+      <Id>us_army_e1</Id>
+      <DisplayName>us_army_e1</DisplayName>
       <Prefix />
       <Suffix />
       <Color />
@@ -163,15 +163,15 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyPVT</Permission>
+        <Permission Cooldown="0">AnythingForUSArmyE1</Permission>
       </Permissions>
     </Group>
 
-    <!-- This is the us_army_pfc permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This is the us_army_e2 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
     <!-- This should be assigned directly. -->
     <Group>
-      <Id>us_army_pfc</Id>
-      <DisplayName>us_army_pfc</DisplayName>
+      <Id>us_army_e2</Id>
+      <DisplayName>us_army_e2</DisplayName>
       <Prefix />
       <Suffix />
       <Color />
@@ -179,15 +179,15 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyPFC</Permission>
+        <Permission Cooldown="0">AnythingForUSArmyE2</Permission>
       </Permissions>
     </Group>
 
-    <!-- This is the us_army_cpl permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This is the us_army_e3 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
     <!-- This should be assigned directly. -->
     <Group>
-      <Id>us_army_cpl</Id>
-      <DisplayName>us_army_cpl</DisplayName>
+      <Id>us_army_e3</Id>
+      <DisplayName>us_army_e3</DisplayName>
       <Prefix />
       <Suffix />
       <Color />
@@ -195,15 +195,15 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmyCPL</Permission>
+        <Permission Cooldown="0">AnythingForUSArmyE3</Permission>
       </Permissions>
     </Group>
 
-    <!-- This is the us_army_sgt permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This is the us_army_e4 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
     <!-- This should be assigned directly. -->
     <Group>
-      <Id>us_army_sgt</Id>
-      <DisplayName>us_army_sgt</DisplayName>
+      <Id>us_army_e4</Id>
+      <DisplayName>us_army_e4</DisplayName>
       <Prefix />
       <Suffix />
       <Color />
@@ -211,15 +211,15 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmySGT</Permission>
+        <Permission Cooldown="0">AnythingForUSArmyE4</Permission>
       </Permissions>
     </Group>
 
-    <!-- This is the us_army_ssgt permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This is the us_army_e5 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
     <!-- This should be assigned directly. -->
     <Group>
-      <Id>us_army_ssgt</Id>
-      <DisplayName>us_army_ssgt</DisplayName>
+      <Id>us_army_e5</Id>
+      <DisplayName>us_army_e5</DisplayName>
       <Prefix />
       <Suffix />
       <Color />
@@ -227,7 +227,199 @@
       <Priority>60</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingForUSArmySSGT</Permission>
+        <Permission Cooldown="0">AnythingForUSArmyE5</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_e6 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_e6</Id>
+      <DisplayName>us_army_e6</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyE6</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_e7 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_e7</Id>
+      <DisplayName>us_army_e7</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyE7</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_e8 permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_e8</Id>
+      <DisplayName>us_army_e8</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyE8</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_w1 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_w1</Id>
+      <DisplayName>us_army_w1</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyW1</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_w2 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_w2</Id>
+      <DisplayName>us_army_w2</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyW2</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o1 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o1</Id>
+      <DisplayName>us_army_o1</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyO1</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o2 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o2</Id>
+      <DisplayName>us_army_o2</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyO2</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o3 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o3</Id>
+      <DisplayName>us_army_o3</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyO3</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o4 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o4</Id>
+      <DisplayName>us_army_o4</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyO4</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o5 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o5</Id>
+      <DisplayName>us_army_o5</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyO5</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o6 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o6</Id>
+      <DisplayName>us_army_o6</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyO6</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o7 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o7</Id>
+      <DisplayName>us_army_o7</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyO7</Permission>
       </Permissions>
     </Group>
 
@@ -315,6 +507,277 @@
       </Permissions>
     </Group>
 
+    <!-- This is the de_army_e1 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e1</Id>
+      <DisplayName>de_army_e1</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE1</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_e2 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e2</Id>
+      <DisplayName>de_army_e2</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE2</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_e3 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e3</Id>
+      <DisplayName>de_army_e3</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE3</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_e4 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e4</Id>
+      <DisplayName>de_army_e4</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE4</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_e5 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e5</Id>
+      <DisplayName>de_army_e5</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE5</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_e6 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e6</Id>
+      <DisplayName>de_army_e6</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE6</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_e7 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e7</Id>
+      <DisplayName>de_army_e7</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE7</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_e8 permission, it inherits everything default, axis, axis_enlisted and de_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_e8</Id>
+      <DisplayName>de_army_e8</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyE8</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_w1 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_w1</Id>
+      <DisplayName>de_army_w1</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyW1</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_w2 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_w2</Id>
+      <DisplayName>de_army_w2</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyW2</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o1 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o1</Id>
+      <DisplayName>de_army_o1</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyO1</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o2 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o2</Id>
+      <DisplayName>de_army_o2</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyO2</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o3 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o3</Id>
+      <DisplayName>de_army_o3</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyO3</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o4 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o4</Id>
+      <DisplayName>de_army_o4</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyO4</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o5 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o5</Id>
+      <DisplayName>de_army_o5</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyO5</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o6 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o6</Id>
+      <DisplayName>de_army_o6</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyO6</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o7 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o7</Id>
+      <DisplayName>de_army_o7</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForDEArmyO7</Permission>
+      </Permissions>
+    </Group>
 
 
 
