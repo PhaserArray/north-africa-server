@@ -25,11 +25,18 @@
         <Permission Cooldown="0">warps</Permission>
         <Permission Cooldown="0">rules</Permission>
         <Permission Cooldown="0">stats</Permission>
+        <Permission Cooldown="0">discord</Permission>
+        <Permission Cooldown="0">maxskills</Permission>
+        <Permission Cooldown="0">pocket.small</Permission>
         <Permission Cooldown="0">essentials.kit</Permission>
         <Permission Cooldown="0">essentials.kits</Permission>
         <Permission Cooldown="0">essentials.warp</Permission>
         <Permission Cooldown="0">essentials.warps</Permission>
+        <Permission Cooldown="0">essentials.command.kit</Permission>
+        <Permission Cooldown="0">essentials.command.kits</Permission>
         <Permission Cooldown="0">essentials.kit.supplies</Permission>
+        <Permission Cooldown="0">essentials.command.warp</Permission>
+        <Permission Cooldown="0">essentials.command.warps</Permission>
       </Permissions>
     </Group>
 
@@ -47,6 +54,8 @@
         <Permission Cooldown="0">p.add</Permission>
         <Permission Cooldown="0">p.remove</Permission>
         <Permission Cooldown="0">kick</Permission>
+        <Permission Cooldown="0">rocket</Permission>
+        <Permission Cooldown="0">compass</Permission>
         <Permission Cooldown="0">AnyotherPermissionsModsAndOffdutyAdminsShouldHave</Permission>
       </Permissions>
     </Group>
@@ -82,7 +91,10 @@
       <Priority>90</Priority>
       <ParentGroup>default</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">essentials.warp.AlliedHQ</Permission>
+        <Permission Cooldown="0">essentials.warp.allies</Permission>
+        <Permission Cooldown="60">essentials.kit.spring</Permission>
+        <Permission Cooldown="600">essentials.kit.garand</Permission>
+        <Permission Cooldown="1800">essentials.kit.thompson</Permission>
         <Permission Cooldown="0">AnythingElseALLAlliesShouldHave</Permission>
       </Permissions>
     </Group>
@@ -116,6 +128,23 @@
       <ParentGroup>allies</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">AnythingThatAllAlliesOfficerMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the allies airforce permission, it inherits everything default and allies have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_airforce</Id>
+      <DisplayName>us_airforce</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>55</Priority>
+      <ParentGroup>allies</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.usaf</Permission>
+        <Permission Cooldown="0">essentials.kit.parachute</Permission>
       </Permissions>
     </Group>
 
@@ -438,7 +467,10 @@
       <Priority>90</Priority>
       <ParentGroup>default</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">essentials.warp.AxisHQ</Permission>
+        <Permission Cooldown="0">essentials.warp.axis</Permission>
+        <Permission Cooldown="1800">essentials.kit.mp40</Permission>
+        <Permission Cooldown="60">essentials.kit.kar98k</Permission>
+        <Permission Cooldown="600">essentials.kit.gewehr</Permission>
         <Permission Cooldown="0">AnythingElseALLAxisShouldHave</Permission>
       </Permissions>
     </Group>
@@ -504,6 +536,24 @@
       <ParentGroup>axis_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">AnythingThatAllGermanArmyOfficersMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the axis airforce permission, it inherits everything default and allies have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_airforce</Id>
+      <DisplayName>de_airforce</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>55</Priority>
+      <ParentGroup>axis</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.lw</Permission>
+        <Permission Cooldown="0">essentials.kit.parachute</Permission>
+        <Permission Cooldown="0">AnythingThatAllGermanAirforceShouldHave</Permission>
       </Permissions>
     </Group>
 
