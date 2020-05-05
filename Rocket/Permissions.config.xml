@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RocketPermissions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DefaultGroup>default</DefaultGroup>
+  <Groups>
+
+
+    <!-- Meta -->
+
+    <!-- This is the default group. Everyone will have this when they first join and will inherit it once they have roles, regardless of side. -->
+    <!-- It should NOT be directly given, users have it by default when they have nothing else. -->
+    <Group>
+      <Id>default</Id>
+      <DisplayName>default</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">kit</Permission>
+        <Permission Cooldown="0">kits</Permission>
+        <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">warp</Permission>
+        <Permission Cooldown="0">warps</Permission>
+        <Permission Cooldown="0">rules</Permission>
+        <Permission Cooldown="0">stats</Permission>
+        <Permission Cooldown="0">essentials.kit</Permission>
+        <Permission Cooldown="0">essentials.kits</Permission>
+        <Permission Cooldown="0">essentials.warp</Permission>
+        <Permission Cooldown="0">essentials.warps</Permission>
+        <Permission Cooldown="0">essentials.kit.supplies</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the mod group. It can kick and it can give and take roles. -->
+    <Group>
+      <Id>mod</Id>
+      <DisplayName>mod</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>#ffeb04</Color>
+      <Members />
+      <Priority>2</Priority>
+      <ParentGroup>default</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">p.add</Permission>
+        <Permission Cooldown="0">p.remove</Permission>
+        <Permission Cooldown="0">kick</Permission>
+        <Permission Cooldown="0">AnyotherPermissionsModsAndOffdutyAdminsShouldHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the admin group. It can do everything mods can, but it can also use the admin command to admin themselves for access to everything. -->
+    <Group>
+      <Id>admin</Id>
+      <DisplayName>admin</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>#ffeb04</Color> <!-- This should show up when the user in not /admin, so off duty color is the mod color. When the user /admins themselves, it should change to cyan. -->
+      <Members />
+      <Priority>1</Priority>
+      <ParentGroup>mod</ParentGroup> <!-- Inherit mod permissions (permissions management + kick), which also inherits default. -->
+      <Permissions>
+        <Permission Cooldown="0">admin</Permission> <!-- Ideally replace with a duty command, because with this they can admin others too. -->
+        <Permission Cooldown="0">AnyotherPermissionsOnlyOffdutyAdminsShouldHave</Permission>
+      </Permissions>
+    </Group>
+
+
+    <!-- Allies -->
+
+    <!-- This should be inherited in another permission group. All allies should have access to this, regardless of their country, guns, etc. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>allies</Id>
+      <DisplayName>allies</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>90</Priority>
+      <ParentGroup>default</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.warp.AlliedHQ</Permission>
+        <Permission Cooldown="0">AnythingElseALLAlliesShouldHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the allies enlisted permission, it inherits everything default and allies have. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>allies_enlisted</Id>
+      <DisplayName>allies_enlisted</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>#72bf7f</Color>
+      <Members />
+      <Priority>50</Priority>
+      <ParentGroup>allies</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllAlliesEnlistedMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the allies officer permission, it inherits everything default and allies have. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>allies_officer</Id>
+      <DisplayName>allies_officer</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>#19b533</Color>
+      <Members />
+      <Priority>50</Priority>
+      <ParentGroup>allies</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllAlliesOfficerMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_enlisted permission, it inherits everything default, allies and allies_enlisted have. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>us_army_enlisted</Id>
+      <DisplayName>us_army_enlisted</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>allies_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllAmericanArmyEnlistedMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_officer permission, it inherits everything default, allies and allies_officer have. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>us_army_officer</Id>
+      <DisplayName>us_army_officer</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>allies_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllAmericanArmyOfficerMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_pvt permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_pvt</Id>
+      <DisplayName>us_army_pvt</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyPVT</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_pfc permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_pfc</Id>
+      <DisplayName>us_army_pfc</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyPFC</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_cpl permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_cpl</Id>
+      <DisplayName>us_army_cpl</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmyCPL</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_sgt permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_sgt</Id>
+      <DisplayName>us_army_sgt</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmySGT</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_ssgt permission, it inherits everything default, allies, allies_enlisted and us_army_enlisted have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_ssgt</Id>
+      <DisplayName>us_army_ssgt</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingForUSArmySSGT</Permission>
+      </Permissions>
+    </Group>
+
+
+    <!-- Axis -->
+
+    <!-- This should be inherited in another permission group. All axis should have access to this, regardless of their country, guns, etc. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>axis</Id>
+      <DisplayName>axis</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>90</Priority>
+      <ParentGroup>default</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.warp.AxisHQ</Permission>
+        <Permission Cooldown="0">AnythingElseALLAxisShouldHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the axis enlisted permission, it inherits everything default and axis have. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>axis_enlisted</Id>
+      <DisplayName>axis_enlisted</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>#bf8372</Color>
+      <Members />
+      <Priority>50</Priority>
+      <ParentGroup>axis</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllAxisEnlistedMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the axis officer permission, it inherits everything default and axis have. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>axis_officer</Id>
+      <DisplayName>axis_officer</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>#a52727</Color>
+      <Members />
+      <Priority>50</Priority>
+      <ParentGroup>axis</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllAxisOfficerMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_enlisted permission, it inherits everything default, axis and axis_enlisted have. -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>de_army_enlisted</Id>
+      <DisplayName>de_army_enlisted</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>axis_enlisted</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllGermanArmyEnlistedMightHave</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the axis officer permission, it inherits everything default, axis and axis_officer have -->
+    <!-- It should NOT be directly given. -->
+    <Group>
+      <Id>de_army_officer</Id>
+      <DisplayName>de_army_officer</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>axis_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">AnythingThatAllGermanArmyOfficersMightHave</Permission>
+      </Permissions>
+    </Group>
+
+
+
+
+  </Groups>
+</RocketPermissions>
