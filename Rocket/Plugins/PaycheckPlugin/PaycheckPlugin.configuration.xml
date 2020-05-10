@@ -92,6 +92,16 @@
       <Experience>1000</Experience>
       <PaycheckZones />
     </Paycheck>
+    <Paycheck>
+      <Name>o8</Name>
+      <Experience>1500</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o9</Name>
+      <Experience>2000</Experience>
+      <PaycheckZones />
+    </Paycheck>
   </Paychecks>
   <PaycheckZones />
 </PaycheckPluginConfiguration>

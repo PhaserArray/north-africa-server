@@ -474,6 +474,41 @@
       </Permissions>
     </Group>
 
+    <!-- This is the us_army_o8 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o8</Id>
+      <DisplayName>us_army_o8</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.usarmyo8</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o8</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the us_army_o9 permission, it inherits everything default, allies, allies_officer and us_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>us_army_o9</Id>
+      <DisplayName>us_army_o9</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>us_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.usarmyo9</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o9</Permission>
+      </Permissions>
+    </Group>
 
     <!-- Axis -->
 
@@ -870,6 +905,42 @@
         <Permission Cooldown="0">essentials.kit.dearmyo7</Permission>
         <Permission Cooldown="0">essentials.kit.cobonus</Permission>
         <Permission Cooldown="0">paycheck.o7</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o8 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o8</Id>
+      <DisplayName>de_army_o8</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.dearmyo8</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o8</Permission>
+      </Permissions>
+    </Group>
+
+    <!-- This is the de_army_o9 permission, it inherits everything default, axis, axis_officer and de_army_officer have. -->
+    <!-- This should be assigned directly. -->
+    <Group>
+      <Id>de_army_o9</Id>
+      <DisplayName>de_army_o9</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color />
+      <Members />
+      <Priority>60</Priority>
+      <ParentGroup>de_army_officer</ParentGroup>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.dearmyo9</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o9</Permission>
       </Permissions>
     </Group>
 
