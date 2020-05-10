@@ -15,7 +15,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>100</Priority>
+      <Priority>1</Priority>
       <Permissions>
         <Permission Cooldown="0">p</Permission>
         <Permission Cooldown="0">kit</Permission>
@@ -48,7 +48,7 @@
       <Suffix />
       <Color>#ffeb04</Color>
       <Members />
-      <Priority>2</Priority>
+      <Priority>100</Priority>
       <ParentGroup>default</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">p.add</Permission>
@@ -68,7 +68,7 @@
       <Suffix />
       <Color>#ffeb04</Color> <!-- This should show up when the user in not /admin, so off duty color is the mod color. When the user /admins themselves, it should change to cyan. -->
       <Members />
-      <Priority>1</Priority>
+      <Priority>100</Priority>
       <ParentGroup>mod</ParentGroup> <!-- Inherit mod permissions (permissions management + kick), which also inherits default. -->
       <Permissions>
         <Permission Cooldown="0">admin</Permission> <!-- Ideally replace with a duty command, because with this they can admin others too. -->
@@ -84,7 +84,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>90</Priority>
+      <Priority />
       <ParentGroup />
       <Permissions>
         <Permission Cooldown="0">essentials.kit.seabonus</Permission>
@@ -99,7 +99,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>90</Priority>
+      <Priority />
       <ParentGroup />
       <Permissions>
         <Permission Cooldown="0">essentials.kit.xobonus</Permission>
@@ -114,7 +114,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>90</Priority>
+      <Priority />
       <ParentGroup />
       <Permissions>
         <Permission Cooldown="0">essentials.kit.cobonus</Permission>
@@ -134,7 +134,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>90</Priority>
+      <Priority />
       <ParentGroup>default</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.warp.allies</Permission>
@@ -153,7 +153,7 @@
       <Suffix />
       <Color>#72bf7f</Color>
       <Members />
-      <Priority>50</Priority>
+      <Priority>90</Priority>
       <ParentGroup>allies</ParentGroup>
       <Permissions>
       </Permissions>
@@ -168,7 +168,7 @@
       <Suffix />
       <Color>#19b533</Color>
       <Members />
-      <Priority>50</Priority>
+      <Priority>90</Priority>
       <ParentGroup>allies</ParentGroup>
       <Permissions>
       </Permissions>
@@ -183,7 +183,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>55</Priority>
+      <Priority />
       <ParentGroup>allies</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usaf</Permission>
@@ -200,7 +200,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>allies_enlisted</ParentGroup>
       <Permissions>
       </Permissions>
@@ -215,7 +215,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>allies_officer</ParentGroup>
       <Permissions>
       </Permissions>
@@ -230,7 +230,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye1</Permission>
@@ -247,7 +247,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye2</Permission>
@@ -264,7 +264,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye3</Permission>
@@ -281,7 +281,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye4</Permission>
@@ -298,7 +298,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye5</Permission>
@@ -315,7 +315,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye6</Permission>
@@ -332,7 +332,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye7</Permission>
@@ -349,7 +349,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye8</Permission>
@@ -366,7 +366,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyw1</Permission>
@@ -383,7 +383,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyw2</Permission>
@@ -400,7 +400,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo1</Permission>
@@ -417,7 +417,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo2</Permission>
@@ -434,7 +434,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo3</Permission>
@@ -451,7 +451,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo4</Permission>
@@ -468,7 +468,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo5</Permission>
@@ -485,7 +485,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo6</Permission>
@@ -502,7 +502,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo7</Permission>
@@ -519,7 +519,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo8</Permission>
@@ -536,7 +536,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo9</Permission>
@@ -555,7 +555,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>90</Priority>
+      <Priority />
       <ParentGroup>default</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.warp.axis</Permission>
@@ -574,7 +574,7 @@
       <Suffix />
       <Color>#bf8372</Color>
       <Members />
-      <Priority>50</Priority>
+      <Priority>90</Priority>
       <ParentGroup>axis</ParentGroup>
       <Permissions>
       </Permissions>
@@ -589,7 +589,7 @@
       <Suffix />
       <Color>#a52727</Color>
       <Members />
-      <Priority>50</Priority>
+      <Priority>90</Priority>
       <ParentGroup>axis</ParentGroup>
       <Permissions>
       </Permissions>
@@ -604,7 +604,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>axis_enlisted</ParentGroup>
       <Permissions>
       </Permissions>
@@ -619,7 +619,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>axis_officer</ParentGroup>
       <Permissions>
       </Permissions>
@@ -634,7 +634,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>55</Priority>
+      <Priority />
       <ParentGroup>axis</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.lw</Permission>
@@ -652,7 +652,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye1</Permission>
@@ -669,7 +669,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye2</Permission>
@@ -686,7 +686,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye3</Permission>
@@ -703,7 +703,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye4</Permission>
@@ -720,7 +720,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye5</Permission>
@@ -737,7 +737,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye6</Permission>
@@ -754,7 +754,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye7</Permission>
@@ -771,7 +771,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye8</Permission>
@@ -788,7 +788,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyw1</Permission>
@@ -805,7 +805,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyw2</Permission>
@@ -822,7 +822,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo1</Permission>
@@ -839,7 +839,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo2</Permission>
@@ -856,7 +856,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo3</Permission>
@@ -873,7 +873,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo4</Permission>
@@ -890,7 +890,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo5</Permission>
@@ -907,7 +907,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo6</Permission>
@@ -924,7 +924,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo7</Permission>
@@ -941,7 +941,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo8</Permission>
@@ -958,7 +958,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>60</Priority>
+      <Priority />
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo9</Permission>
