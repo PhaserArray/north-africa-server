@@ -193,7 +193,7 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye1</Permission>
-        <Permission Cooldown="0">paycheck.usarmye1</Permission>
+        <Permission Cooldown="0">paycheck.e1</Permission>
       </Permissions>
     </Group>
 
@@ -210,7 +210,7 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye2</Permission>
-        <Permission Cooldown="0">paycheck.usarmye2</Permission>
+        <Permission Cooldown="0">paycheck.e2</Permission>
       </Permissions>
     </Group>
 
@@ -227,7 +227,7 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye3</Permission>
-        <Permission Cooldown="0">paycheck.usarmye3</Permission>
+        <Permission Cooldown="0">paycheck.e3</Permission>
       </Permissions>
     </Group>
 
@@ -244,7 +244,7 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye4</Permission>
-        <Permission Cooldown="0">paycheck.usarmye4</Permission>
+        <Permission Cooldown="0">paycheck.e4</Permission>
       </Permissions>
     </Group>
 
@@ -261,7 +261,7 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye5</Permission>
-        <Permission Cooldown="0">paycheck.usarmye5</Permission>
+        <Permission Cooldown="0">paycheck.e5</Permission>
       </Permissions>
     </Group>
 
@@ -278,7 +278,7 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye6</Permission>
-        <Permission Cooldown="0">paycheck.usarmye6</Permission>
+        <Permission Cooldown="0">paycheck.e6</Permission>
       </Permissions>
     </Group>
 
@@ -295,7 +295,7 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye7</Permission>
-        <Permission Cooldown="0">paycheck.usarmye7</Permission>
+        <Permission Cooldown="0">paycheck.e7</Permission>
       </Permissions>
     </Group>
 
@@ -312,8 +312,8 @@
       <ParentGroup>us_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmye8</Permission>
-        <Permission Cooldown="0">paycheck.usarmye8</Permission>
-        <Permission Cooldown="0">paycheck.usarmyseabonus</Permission>
+        <Permission Cooldown="0">essentials.kit.seabonus</Permission>
+        <Permission Cooldown="0">paycheck.e8</Permission>
       </Permissions>
     </Group>
 
@@ -330,7 +330,7 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyw1</Permission>
-        <Permission Cooldown="0">paycheck.usarmyw1</Permission>
+        <Permission Cooldown="0">paycheck.w1</Permission>
       </Permissions>
     </Group>
 
@@ -347,7 +347,7 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyw2</Permission>
-        <Permission Cooldown="0">paycheck.usarmyw2</Permission>
+        <Permission Cooldown="0">paycheck.w2</Permission>
       </Permissions>
     </Group>
 
@@ -364,7 +364,7 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo1</Permission>
-        <Permission Cooldown="0">paycheck.usarmyo1</Permission>
+        <Permission Cooldown="0">paycheck.o1</Permission>
       </Permissions>
     </Group>
 
@@ -381,7 +381,7 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo2</Permission>
-        <Permission Cooldown="0">paycheck.usarmyo2</Permission>
+        <Permission Cooldown="0">paycheck.o2</Permission>
       </Permissions>
     </Group>
 
@@ -398,7 +398,7 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo3</Permission>
-        <Permission Cooldown="0">paycheck.usarmyo3</Permission>
+        <Permission Cooldown="0">paycheck.o3</Permission>
       </Permissions>
     </Group>
 
@@ -415,8 +415,8 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo4</Permission>
-        <Permission Cooldown="0">paycheck.usarmyo4</Permission>
-        <Permission Cooldown="0">paycheck.usarmyxobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.xobonus</Permission>
+        <Permission Cooldown="0">paycheck.o4</Permission>
       </Permissions>
     </Group>
 
@@ -433,8 +433,8 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo5</Permission>
-        <Permission Cooldown="0">paycheck.usarmyo5</Permission>
-        <Permission Cooldown="0">paycheck.usarmyxobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.xobonus</Permission>
+        <Permission Cooldown="0">paycheck.o5</Permission>
       </Permissions>
     </Group>
 
@@ -451,8 +451,8 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo6</Permission>
-        <Permission Cooldown="0">paycheck.usarmyo6</Permission>
-        <Permission Cooldown="0">paycheck.usarmycobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o6</Permission>
       </Permissions>
     </Group>
 
@@ -469,8 +469,8 @@
       <ParentGroup>us_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.usarmyo7</Permission>
-        <Permission Cooldown="0">paycheck.usarmyo7</Permission>
-        <Permission Cooldown="0">paycheck.usarmycobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o7</Permission>
       </Permissions>
     </Group>
 
@@ -592,7 +592,7 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye1</Permission>
-        <Permission Cooldown="0">paycheck.dearmye1</Permission>
+        <Permission Cooldown="0">paycheck.e1</Permission>
       </Permissions>
     </Group>
 
@@ -609,7 +609,7 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye2</Permission>
-        <Permission Cooldown="0">paycheck.dearmye2</Permission>
+        <Permission Cooldown="0">paycheck.e2</Permission>
       </Permissions>
     </Group>
 
@@ -626,7 +626,7 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye3</Permission>
-        <Permission Cooldown="0">paycheck.dearmye3</Permission>
+        <Permission Cooldown="0">paycheck.e3</Permission>
       </Permissions>
     </Group>
 
@@ -643,7 +643,7 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye4</Permission>
-        <Permission Cooldown="0">paycheck.dearmye4</Permission>
+        <Permission Cooldown="0">paycheck.e4</Permission>
       </Permissions>
     </Group>
 
@@ -660,7 +660,7 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye5</Permission>
-        <Permission Cooldown="0">paycheck.dearmye5</Permission>
+        <Permission Cooldown="0">paycheck.e5</Permission>
       </Permissions>
     </Group>
 
@@ -677,7 +677,7 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye6</Permission>
-        <Permission Cooldown="0">paycheck.dearmye6</Permission>
+        <Permission Cooldown="0">paycheck.e6</Permission>
       </Permissions>
     </Group>
 
@@ -694,7 +694,7 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye7</Permission>
-        <Permission Cooldown="0">paycheck.dearmye7</Permission>
+        <Permission Cooldown="0">paycheck.e7</Permission>
       </Permissions>
     </Group>
 
@@ -711,8 +711,8 @@
       <ParentGroup>de_army_enlisted</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmye8</Permission>
-        <Permission Cooldown="0">paycheck.dearmye8</Permission>
-        <Permission Cooldown="0">paycheck.dearmyseabonus</Permission>
+        <Permission Cooldown="0">essentials.kit.seabonus</Permission>
+        <Permission Cooldown="0">paycheck.e8</Permission>
       </Permissions>
     </Group>
 
@@ -729,7 +729,7 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyw1</Permission>
-        <Permission Cooldown="0">paycheck.dearmyw1</Permission>
+        <Permission Cooldown="0">paycheck.w1</Permission>
       </Permissions>
     </Group>
 
@@ -746,7 +746,7 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyw2</Permission>
-        <Permission Cooldown="0">paycheck.dearmyw2</Permission>
+        <Permission Cooldown="0">paycheck.w2</Permission>
       </Permissions>
     </Group>
 
@@ -763,7 +763,7 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo1</Permission>
-        <Permission Cooldown="0">paycheck.dearmyo1</Permission>
+        <Permission Cooldown="0">paycheck.o1</Permission>
       </Permissions>
     </Group>
 
@@ -780,7 +780,7 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo2</Permission>
-        <Permission Cooldown="0">paycheck.dearmyo2</Permission>
+        <Permission Cooldown="0">paycheck.o2</Permission>
       </Permissions>
     </Group>
 
@@ -797,7 +797,7 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo3</Permission>
-        <Permission Cooldown="0">paycheck.dearmyo3</Permission>
+        <Permission Cooldown="0">paycheck.o3</Permission>
       </Permissions>
     </Group>
 
@@ -814,8 +814,8 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo4</Permission>
-        <Permission Cooldown="0">paycheck.dearmyo4</Permission>
-        <Permission Cooldown="0">paycheck.dearmyxobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.xobonus</Permission>
+        <Permission Cooldown="0">paycheck.o4</Permission>
       </Permissions>
     </Group>
 
@@ -832,8 +832,8 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo5</Permission>
-        <Permission Cooldown="0">paycheck.dearmyo5</Permission>
-        <Permission Cooldown="0">paycheck.dearmyxobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.xobonus</Permission>
+        <Permission Cooldown="0">paycheck.o5</Permission>
       </Permissions>
     </Group>
 
@@ -850,8 +850,8 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo6</Permission>
-        <Permission Cooldown="0">paycheck.dearmyo6</Permission>
-        <Permission Cooldown="0">paycheck.dearmycobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o6</Permission>
       </Permissions>
     </Group>
 
@@ -868,8 +868,8 @@
       <ParentGroup>de_army_officer</ParentGroup>
       <Permissions>
         <Permission Cooldown="0">essentials.kit.dearmyo7</Permission>
-        <Permission Cooldown="0">paycheck.dearmyo7</Permission>
-        <Permission Cooldown="0">paycheck.dearmycobonus</Permission>
+        <Permission Cooldown="0">essentials.kit.cobonus</Permission>
+        <Permission Cooldown="0">paycheck.o7</Permission>
       </Permissions>
     </Group>
 

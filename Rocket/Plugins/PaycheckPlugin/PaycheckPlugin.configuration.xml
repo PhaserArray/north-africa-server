@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PaycheckPluginConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Interval>1200</Interval>
+  <DisplayNotification>true</DisplayNotification>
+  <AllowMultipleMultipliers>true</AllowMultipleMultipliers>
+  <AllowPaychecksWhenDead>true</AllowPaychecksWhenDead>
+  <AllowPaychecksInSafezone>true</AllowPaychecksInSafezone>
+  <AllowMultiplePaychecks>true</AllowMultiplePaychecks>
+  <Paychecks>
+    <Paycheck>
+      <Name>e1</Name>
+      <Experience>300</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>e2</Name>
+      <Experience>350</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>e3</Name>
+      <Experience>400</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>e4</Name>
+      <Experience>450</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>e5</Name>
+      <Experience>500</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>e6</Name>
+      <Experience>550</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>e7</Name>
+      <Experience>600</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>e8</Name>
+      <Experience>650</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>wo1</Name>
+      <Experience>550</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>wo2</Name>
+      <Experience>650</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o1</Name>
+      <Experience>700</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o2</Name>
+      <Experience>750</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o3</Name>
+      <Experience>800</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o4</Name>
+      <Experience>850</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o5</Name>
+      <Experience>900</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o6</Name>
+      <Experience>950</Experience>
+      <PaycheckZones />
+    </Paycheck>
+    <Paycheck>
+      <Name>o7</Name>
+      <Experience>1000</Experience>
+      <PaycheckZones />
+    </Paycheck>
+  </Paychecks>
+  <PaycheckZones />
+</PaycheckPluginConfiguration>

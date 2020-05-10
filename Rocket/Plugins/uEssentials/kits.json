@@ -346,5 +346,44 @@
     "Cooldown": 60,
     "Cost": 0.0,
     "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "seobonus",
+    "Items": [
+      {
+        "Id": 1055,
+        "Durability": 100,
+        "Amount": 40
+      }
+    ],
+    "Cooldown": 3600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "xobonus",
+    "Items": [
+      {
+        "Id": 1055,
+        "Durability": 100,
+        "Amount": 45
+      }
+    ],
+    "Cooldown": 3600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "cobonus",
+    "Items": [
+      {
+        "Id": 1055,
+        "Durability": 100,
+        "Amount": 50
+      }
+    ],
+    "Cooldown": 3600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
   }
 ]
