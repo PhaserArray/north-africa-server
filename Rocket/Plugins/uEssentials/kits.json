@@ -351,9 +351,7 @@
     "Name": "seabonus",
     "Items": [
       {
-        "Id": 1055,
-        "Durability": 100,
-        "Amount": 4
+        "Xp": 4000
       }
     ],
     "Cooldown": 3600,
@@ -364,14 +362,7 @@
     "Name": "xobonus",
     "Items": [
       {
-        "Id": 1055,
-        "Durability": 100,
-        "Amount": 4
-      },
-      {
-        "Id": 1054,
-        "Durability": 100,
-        "Amount": 1
+        "Xp": 4500
       }
     ],
     "Cooldown": 3600,
@@ -382,9 +373,7 @@
     "Name": "cobonus",
     "Items": [
       {
-        "Id": 1055,
-        "Durability": 100,
-        "Amount": 5
+        "Xp": 5000
       }
     ],
     "Cooldown": 3600,
