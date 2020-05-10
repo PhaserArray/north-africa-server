@@ -287,12 +287,27 @@
         "Amount": 1
       },
       {
+        "Id": 13,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
         "Id": 290,
         "Durability": 100,
         "Amount": 1
       },
       {
         "Id": 96,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 121,
         "Durability": 100,
         "Amount": 1
       }
