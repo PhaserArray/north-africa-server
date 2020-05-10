@@ -6,6 +6,7 @@
   <AllowPaychecksWhenDead>true</AllowPaychecksWhenDead>
   <AllowPaychecksInSafezone>true</AllowPaychecksInSafezone>
   <AllowMultiplePaychecks>false</AllowMultiplePaychecks>
+  <MinimumMovementBetweenPaychecks>2</MinimumMovementBetweenPaychecks>
   <Paychecks>
     <Paycheck>
       <Name>e1</Name>
