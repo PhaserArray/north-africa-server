@@ -353,7 +353,7 @@
       {
         "Id": 1055,
         "Durability": 100,
-        "Amount": 40
+        "Amount": 4
       }
     ],
     "Cooldown": 3600,
@@ -366,7 +366,12 @@
       {
         "Id": 1055,
         "Durability": 100,
-        "Amount": 45
+        "Amount": 4
+      },
+      {
+        "Id": 1054,
+        "Durability": 100,
+        "Amount": 1
       }
     ],
     "Cooldown": 3600,
@@ -379,7 +384,7 @@
       {
         "Id": 1055,
         "Durability": 100,
-        "Amount": 50
+        "Amount": 5
       }
     ],
     "Cooldown": 3600,
