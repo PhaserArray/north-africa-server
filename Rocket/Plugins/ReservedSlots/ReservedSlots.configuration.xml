@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReservedSlotsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ReservedSlotEnable>true</ReservedSlotEnable>
+  <Groups>
+    <Group>mod</Group>
+    <Group>admin</Group>
+  </Groups>
+  <ReservedSlotCount>2</ReservedSlotCount>
+  <AllowFill>true</AllowFill>
+  <AllowDynamicMaxSlot>true</AllowDynamicMaxSlot>
+  <MaxSlotCount>24</MaxSlotCount>
+  <MinSlotCount>22</MinSlotCount>
+</ReservedSlotsConfig>
