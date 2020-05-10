@@ -141,7 +141,6 @@
         <Permission Cooldown="0">essentials.kit.spring</Permission>
         <Permission Cooldown="0">essentials.kit.garand</Permission>
         <Permission Cooldown="0">essentials.kit.thompson</Permission>
-        <Permission Cooldown="0">AnythingElseALLAlliesShouldHave</Permission>
       </Permissions>
     </Group>
 
@@ -157,7 +156,6 @@
       <Priority>50</Priority>
       <ParentGroup>allies</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllAlliesEnlistedMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -173,7 +171,6 @@
       <Priority>50</Priority>
       <ParentGroup>allies</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllAlliesOfficerMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -206,7 +203,6 @@
       <Priority>60</Priority>
       <ParentGroup>allies_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllAmericanArmyEnlistedMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -222,7 +218,6 @@
       <Priority>60</Priority>
       <ParentGroup>allies_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllAmericanArmyOfficerMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -567,7 +562,6 @@
         <Permission Cooldown="0">essentials.kit.mp40</Permission>
         <Permission Cooldown="0">essentials.kit.kar98k</Permission>
         <Permission Cooldown="0">essentials.kit.gewehr</Permission>
-        <Permission Cooldown="0">AnythingElseALLAxisShouldHave</Permission>
       </Permissions>
     </Group>
 
@@ -583,7 +577,6 @@
       <Priority>50</Priority>
       <ParentGroup>axis</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllAxisEnlistedMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -599,7 +592,6 @@
       <Priority>50</Priority>
       <ParentGroup>axis</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllAxisOfficerMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -615,7 +607,6 @@
       <Priority>60</Priority>
       <ParentGroup>axis_enlisted</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllGermanArmyEnlistedMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -631,7 +622,6 @@
       <Priority>60</Priority>
       <ParentGroup>axis_officer</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">AnythingThatAllGermanArmyOfficersMightHave</Permission>
       </Permissions>
     </Group>
 
@@ -649,7 +639,7 @@
       <Permissions>
         <Permission Cooldown="0">essentials.kit.lw</Permission>
         <Permission Cooldown="0">essentials.kit.parachute</Permission>
-        <Permission Cooldown="0">AnythingThatAllGermanAirforceShouldHave</Permission>
+        
       </Permissions>
     </Group>
 
