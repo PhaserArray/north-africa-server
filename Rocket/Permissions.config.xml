@@ -21,6 +21,7 @@
         <Permission Cooldown="0">kit</Permission>
         <Permission Cooldown="0">kits</Permission>
         <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">npay</Permission>
         <Permission Cooldown="0">warp</Permission>
         <Permission Cooldown="0">warps</Permission>
         <Permission Cooldown="0">rules</Permission>
