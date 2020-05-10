@@ -656,7 +656,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmywo1",
+    "Name": "usarmyw1",
     "Items": [
       {
         "Id": 58326,
@@ -689,7 +689,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmywo2",
+    "Name": "usarmyw2",
     "Items": [
       {
         "Id": 58326,
@@ -722,7 +722,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco1",
+    "Name": "usarmyo1",
     "Items": [
       {
         "Id": 58327,
@@ -755,7 +755,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco2",
+    "Name": "usarmyo2",
     "Items": [
       {
         "Id": 58328,
@@ -788,7 +788,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco3",
+    "Name": "usarmyo3",
     "Items": [
       {
         "Id": 58329,
@@ -821,7 +821,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco4",
+    "Name": "usarmyo4",
     "Items": [
       {
         "Id": 58330,
@@ -854,7 +854,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco5",
+    "Name": "usarmyo5",
     "Items": [
       {
         "Id": 58331,
@@ -887,7 +887,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco6",
+    "Name": "usarmyo6",
     "Items": [
       {
         "Id": 58332,
@@ -920,7 +920,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco7",
+    "Name": "usarmyo7",
     "Items": [
       {
         "Id": 58333,
@@ -953,7 +953,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco8",
+    "Name": "usarmyo8",
     "Items": [
       {
         "Id": 58334,
@@ -986,7 +986,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "usarmyco9",
+    "Name": "usarmyo9",
     "Items": [
       {
         "Id": 58335,
@@ -1283,7 +1283,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmywo1",
+    "Name": "dearmyw1",
     "Items": [
       {
         "Id": 58396,
@@ -1316,7 +1316,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmywo2",
+    "Name": "dearmyw2",
     "Items": [
       {
         "Id": 58396,
@@ -1349,7 +1349,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco1",
+    "Name": "dearmyo1",
     "Items": [
       {
         "Id": 58344,
@@ -1382,7 +1382,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco2",
+    "Name": "dearmyo2",
     "Items": [
       {
         "Id": 58345,
@@ -1415,7 +1415,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco3",
+    "Name": "dearmyo3",
     "Items": [
       {
         "Id": 58346,
@@ -1448,7 +1448,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco4",
+    "Name": "dearmyo4",
     "Items": [
       {
         "Id": 58347,
@@ -1481,7 +1481,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco5",
+    "Name": "dearmyo5",
     "Items": [
       {
         "Id": 58348,
@@ -1514,7 +1514,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco6",
+    "Name": "dearmyo6",
     "Items": [
       {
         "Id": 58349,
@@ -1547,7 +1547,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco7",
+    "Name": "dearmyo7",
     "Items": [
       {
         "Id": 58350,
@@ -1580,7 +1580,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco8",
+    "Name": "dearmyo8",
     "Items": [
       {
         "Id": 58351,
@@ -1613,7 +1613,7 @@
     "ResetCooldownWhenDie": true
   },
   {
-    "Name": "dearmyco9",
+    "Name": "dearmyo9",
     "Items": [
       {
         "Id": 58352,
