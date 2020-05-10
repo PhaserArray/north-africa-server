@@ -1017,5 +1017,632 @@
     "Cooldown": 300,
     "Cost": 0.0,
     "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye1",
+    "Items": [
+      {
+        "Id": 58354,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58308,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58307,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye2",
+    "Items": [
+      {
+        "Id": 58337,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58308,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58307,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye3",
+    "Items": [
+      {
+        "Id": 58338,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58308,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58307,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye4",
+    "Items": [
+      {
+        "Id": 58339,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58397,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58373,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye5",
+    "Items": [
+      {
+        "Id": 58340,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58397,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58373,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye6",
+    "Items": [
+      {
+        "Id": 58341,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58397,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58373,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye7",
+    "Items": [
+      {
+        "Id": 58342,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58397,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58373,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmye8",
+    "Items": [
+      {
+        "Id": 58343,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58397,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58373,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmywo1",
+    "Items": [
+      {
+        "Id": 58396,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58397,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58373,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmywo2",
+    "Items": [
+      {
+        "Id": 58396,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58305,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58373,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco1",
+    "Items": [
+      {
+        "Id": 58344,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco2",
+    "Items": [
+      {
+        "Id": 58345,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco3",
+    "Items": [
+      {
+        "Id": 58346,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco4",
+    "Items": [
+      {
+        "Id": 58347,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco5",
+    "Items": [
+      {
+        "Id": 58348,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco6",
+    "Items": [
+      {
+        "Id": 58349,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco7",
+    "Items": [
+      {
+        "Id": 58350,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco8",
+    "Items": [
+      {
+        "Id": 58351,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "dearmyco9",
+    "Items": [
+      {
+        "Id": 58352,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58387,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58398,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58388,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 58381,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
   }
 ]
