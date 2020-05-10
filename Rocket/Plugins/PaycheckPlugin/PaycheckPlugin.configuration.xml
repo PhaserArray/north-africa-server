@@ -5,7 +5,7 @@
   <AllowMultipleMultipliers>true</AllowMultipleMultipliers>
   <AllowPaychecksWhenDead>true</AllowPaychecksWhenDead>
   <AllowPaychecksInSafezone>true</AllowPaychecksInSafezone>
-  <AllowMultiplePaychecks>true</AllowMultiplePaychecks>
+  <AllowMultiplePaychecks>false</AllowMultiplePaychecks>
   <Paychecks>
     <Paycheck>
       <Name>e1</Name>
