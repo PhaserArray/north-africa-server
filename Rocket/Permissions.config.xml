@@ -152,7 +152,7 @@
       <DisplayName>allies_enlisted</DisplayName>
       <Prefix />
       <Suffix />
-      <Color>#72bf7f</Color>
+      <Color />
       <Members />
       <Priority>90</Priority>
       <ParentGroup>allies</ParentGroup>
@@ -167,7 +167,7 @@
       <DisplayName>allies_officer</DisplayName>
       <Prefix />
       <Suffix />
-      <Color>#19b533</Color>
+      <Color />
       <Members />
       <Priority>90</Priority>
       <ParentGroup>allies</ParentGroup>
@@ -229,7 +229,7 @@
       <DisplayName>us_army_e1</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -246,7 +246,7 @@
       <DisplayName>us_army_e2</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -263,7 +263,7 @@
       <DisplayName>us_army_e3</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -280,7 +280,7 @@
       <DisplayName>us_army_e4</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -297,7 +297,7 @@
       <DisplayName>us_army_e5</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -314,7 +314,7 @@
       <DisplayName>us_army_e6</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -331,7 +331,7 @@
       <DisplayName>us_army_e7</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -348,7 +348,7 @@
       <DisplayName>us_army_e8</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#72bf7f</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_enlisted</ParentGroup>
@@ -365,7 +365,7 @@
       <DisplayName>us_army_w1</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -382,7 +382,7 @@
       <DisplayName>us_army_w2</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -399,7 +399,7 @@
       <DisplayName>us_army_o1</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -416,7 +416,7 @@
       <DisplayName>us_army_o2</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -433,7 +433,7 @@
       <DisplayName>us_army_o3</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -450,7 +450,7 @@
       <DisplayName>us_army_o4</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -467,7 +467,7 @@
       <DisplayName>us_army_o5</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -484,7 +484,7 @@
       <DisplayName>us_army_o6</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -501,7 +501,7 @@
       <DisplayName>us_army_o7</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -518,7 +518,7 @@
       <DisplayName>us_army_o8</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -535,7 +535,7 @@
       <DisplayName>us_army_o9</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#19b533</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>us_army_officer</ParentGroup>
@@ -573,7 +573,7 @@
       <DisplayName>axis_enlisted</DisplayName>
       <Prefix />
       <Suffix />
-      <Color>#bf8372</Color>
+      <Color />
       <Members />
       <Priority>90</Priority>
       <ParentGroup>axis</ParentGroup>
@@ -588,7 +588,7 @@
       <DisplayName>axis_officer</DisplayName>
       <Prefix />
       <Suffix />
-      <Color>#a52727</Color>
+      <Color />
       <Members />
       <Priority>90</Priority>
       <ParentGroup>axis</ParentGroup>
@@ -651,7 +651,7 @@
       <DisplayName>de_army_e1</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -668,7 +668,7 @@
       <DisplayName>de_army_e2</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -685,7 +685,7 @@
       <DisplayName>de_army_e3</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -702,7 +702,7 @@
       <DisplayName>de_army_e4</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -719,7 +719,7 @@
       <DisplayName>de_army_e5</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -736,7 +736,7 @@
       <DisplayName>de_army_e6</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -753,7 +753,7 @@
       <DisplayName>de_army_e7</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -770,7 +770,7 @@
       <DisplayName>de_army_e8</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#bf8372</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_enlisted</ParentGroup>
@@ -787,7 +787,7 @@
       <DisplayName>de_army_w1</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -804,7 +804,7 @@
       <DisplayName>de_army_w2</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -821,7 +821,7 @@
       <DisplayName>de_army_o1</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -838,7 +838,7 @@
       <DisplayName>de_army_o2</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -855,7 +855,7 @@
       <DisplayName>de_army_o3</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -872,7 +872,7 @@
       <DisplayName>de_army_o4</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -889,7 +889,7 @@
       <DisplayName>de_army_o5</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -906,7 +906,7 @@
       <DisplayName>de_army_o6</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -923,7 +923,7 @@
       <DisplayName>de_army_o7</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -940,7 +940,7 @@
       <DisplayName>de_army_o8</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
@@ -957,7 +957,7 @@
       <DisplayName>de_army_o9</DisplayName>
       <Prefix />
       <Suffix />
-      <Color />
+      <Color>#a52727</Color>
       <Members />
       <Priority>1</Priority>
       <ParentGroup>de_army_officer</ParentGroup>
