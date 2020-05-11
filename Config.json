@@ -2,9 +2,9 @@
   "Browser": {
     "Icon": "https://i.imgur.com/5Yb2a4j.png",
     "Thumbnail": "https://i.imgur.com/5Yb2a4j.png",
-    "Desc_Hint": "<color=#00ffff>Brought to you by former Axis & Allies community members! Join our discord: discord.gg/cBF9BXe</color>",
-    "Desc_Full": "<color=#00ffff>This server takes place in 1941 on the African front. We have custom items, vehicles and more. The server is ran by former Axis & Allies community members. Join our discord: discord.gg/cBF9BXe</color>",
-    "Desc_Server_List": "<color=#00ffff>WW2 1941 Africa! Dynamic max players: 32</color>"
+    "Desc_Hint": "<color=#00ff00>Brought to you by former Axis & Allies community members! Join our discord: discord.gg/cBF9BXe</color>",
+    "Desc_Full": "<color=#00ff00>This server takes place in 1941 on the African front. We have custom items, vehicles and more. The server is ran by former Axis & Allies community members. Join our discord: discord.gg/cBF9BXe</color>",
+    "Desc_Server_List": "<color=#00ff00>WW2 1941 Africa! Dynamic max players: 32</color>"
   },
   "Server": {
     "VAC_Secure": true,
