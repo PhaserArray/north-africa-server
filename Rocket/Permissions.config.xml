@@ -15,7 +15,7 @@
       <Suffix />
       <Color />
       <Members />
-      <Priority>1</Priority>
+      <Priority>400</Priority>
       <Permissions>
         <Permission Cooldown="0">p</Permission>
         <Permission Cooldown="0">kit</Permission>
