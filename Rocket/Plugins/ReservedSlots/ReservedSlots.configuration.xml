@@ -8,6 +8,6 @@
   <ReservedSlotCount>2</ReservedSlotCount>
   <AllowFill>true</AllowFill>
   <AllowDynamicMaxSlot>true</AllowDynamicMaxSlot>
-  <MaxSlotCount>24</MaxSlotCount>
-  <MinSlotCount>22</MinSlotCount>
+  <MaxSlotCount>32</MaxSlotCount>
+  <MinSlotCount>30</MinSlotCount>
 </ReservedSlotsConfig>
