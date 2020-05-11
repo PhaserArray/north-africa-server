@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XPForKillsConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CheckSteamGroupTeamkill>true</CheckSteamGroupTeamkill>
+  <DisableMessages>false</DisableMessages>
+  <NoTeamkillPenaltyPermission>XPForKills.NoTeamkillPenalty</NoTeamkillPenaltyPermission>
+  <KillXP>25</KillXP>
+  <HeadModifier>1.6</HeadModifier>
+  <TorsoModifier>1</TorsoModifier>
+  <ArmModifier>1</ArmModifier>
+  <LegModifier>1</LegModifier>
+  <TeamkillXP>-500</TeamkillXP>
+  <SuicideXP>-50</SuicideXP>
+  <DeathXP>-10</DeathXP>
+  <BreathXP>-10</BreathXP>
+  <ZombieXP>-10</ZombieXP>
+  <FireXP>-10</FireXP>
+</XPForKillsConfiguration>

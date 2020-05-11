@@ -57,7 +57,7 @@
         <Permission Cooldown="0">kick</Permission>
         <Permission Cooldown="0">rocket</Permission>
         <Permission Cooldown="0">compass</Permission>
-        <Permission Cooldown="0">AnyotherPermissionsModsAndOffdutyAdminsShouldHave</Permission>
+        <Permission Cooldown="0">XPForKills.NoTeamkillPenalty</Permission>
       </Permissions>
     </Group>
 
@@ -73,7 +73,6 @@
       <ParentGroup>mod</ParentGroup> <!-- Inherit mod permissions (permissions management + kick), which also inherits default. -->
       <Permissions>
         <Permission Cooldown="0">admin</Permission> <!-- Ideally replace with a duty command, because with this they can admin others too. -->
-        <Permission Cooldown="0">AnyotherPermissionsOnlyOffdutyAdminsShouldHave</Permission>
       </Permissions>
     </Group>
 
