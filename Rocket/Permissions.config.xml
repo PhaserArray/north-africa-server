@@ -52,11 +52,13 @@
       <Priority>200</Priority>
       <ParentGroup>default</ParentGroup>
       <Permissions>
-        <Permission Cooldown="0">p.add</Permission>
-        <Permission Cooldown="0">p.remove</Permission>
         <Permission Cooldown="0">kick</Permission>
+        <Permission Cooldown="0">p.add</Permission>
+        <Permission Cooldown="0">wreck</Permission>
         <Permission Cooldown="0">rocket</Permission>
         <Permission Cooldown="0">compass</Permission>
+        <Permission Cooldown="0">p.remove</Permission>
+        <Permission Cooldown="0">checkowner</Permission>
         <Permission Cooldown="0">XPForKills.NoTeamkillPenalty</Permission>
       </Permissions>
     </Group>
