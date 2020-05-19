@@ -34,10 +34,13 @@
         <Permission Cooldown="0">essentials.warps</Permission>
         <Permission Cooldown="0">essentials.command.kit</Permission>
         <Permission Cooldown="0">paychecks.commands.view</Permission>
+        <Permission Cooldown="0">essentials.command.tell</Permission>
         <Permission Cooldown="0">essentials.command.kits</Permission>
         <Permission Cooldown="0">essentials.kit.supplies</Permission>
+        <Permission Cooldown="0">essentials.command.vote</Permission>
         <Permission Cooldown="0">essentials.command.warp</Permission>
         <Permission Cooldown="0">essentials.command.warps</Permission>
+        <Permission Cooldown="0">essentials.command.reply</Permission>
       </Permissions>
     </Group>
 
@@ -52,13 +55,23 @@
       <Priority>200</Priority>
       <ParentGroup>default</ParentGroup>
       <Permissions>
+        <Permission Cooldown="0">tp</Permission>
         <Permission Cooldown="0">kick</Permission>
         <Permission Cooldown="0">p.add</Permission>
         <Permission Cooldown="0">wreck</Permission>
         <Permission Cooldown="0">rocket</Permission>
         <Permission Cooldown="0">compass</Permission>
+        <Permission Cooldown="0">teleport</Permission>
         <Permission Cooldown="0">p.remove</Permission>
         <Permission Cooldown="0">checkowner</Permission>
+        <Permission Cooldown="0">essentials.command.tp</Permission>
+        <Permission Cooldown="0">essentials.command.poll</Permission>
+        <Permission Cooldown="0">essentials.command.clear</Permission>
+        <Permission Cooldown="0">essentials.command.spypm</Permission>
+        <Permission Cooldown="0">essentials.command.freeze</Permission>
+        <Permission Cooldown="0">essentials.command.unfreeze</Permission>
+        <Permission Cooldown="0">essentials.command.position</Permission>
+        <Permission Cooldown="0">essentials.command.requesturl</Permission>
         <Permission Cooldown="0">XPForKills.NoTeamkillPenalty</Permission>
       </Permissions>
     </Group>
