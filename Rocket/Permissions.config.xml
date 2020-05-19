@@ -65,9 +65,12 @@
         <Permission Cooldown="0">p.remove</Permission>
         <Permission Cooldown="0">checkowner</Permission>
         <Permission Cooldown="0">essentials.command.tp</Permission>
+        <Permission Cooldown="0">essentials.command.tps</Permission>
+        <Permission Cooldown="0">essentials.command.ping</Permission>
         <Permission Cooldown="0">essentials.command.poll</Permission>
         <Permission Cooldown="0">essentials.command.clear</Permission>
         <Permission Cooldown="0">essentials.command.spypm</Permission>
+        <Permission Cooldown="0">essentials.command.online</Permission>
         <Permission Cooldown="0">essentials.command.freeze</Permission>
         <Permission Cooldown="0">essentials.command.unfreeze</Permission>
         <Permission Cooldown="0">essentials.command.position</Permission>
